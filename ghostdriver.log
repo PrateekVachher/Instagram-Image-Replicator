@@ -1,0 +1,8 @@
+[INFO  - 2016-10-16T11:56:54.013Z] GhostDriver - Main - running on port 54156
+[INFO  - 2016-10-16T11:56:54.751Z] Session [a1ed0a30-9397-11e6-a926-3dfe3d10f135] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-10-16T11:56:54.751Z] Session [a1ed0a30-9397-11e6-a926-3dfe3d10f135] - page.customHeaders:  - {}
+[INFO  - 2016-10-16T11:56:54.751Z] Session [a1ed0a30-9397-11e6-a926-3dfe3d10f135] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-10-16T11:56:54.752Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a1ed0a30-9397-11e6-a926-3dfe3d10f135
+[INFO  - 2016-10-16T12:01:54.008Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-16T12:06:54.005Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-10-16T12:08:55.725Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
